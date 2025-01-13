@@ -27,4 +27,5 @@ Outfit Planner is a website that gives you an opportunity to plan your outfits a
  
 ## Technology
 | Framework: | Spring Boot |
+| ----------- | ----------- |
 | Language: | Kotlin |
